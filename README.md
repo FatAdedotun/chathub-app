@@ -1,15 +1,12 @@
-# Unichat Application
+yooooooooooooooo... long time no see yo?
 
-![Chat Application](https://i.ibb.co/GJwyy9m/Bv9-Js3-QLOLY-HD.jpg)
+yeah, i've been getting better at ReactJs and taking some number of Ls from my search for a Junior or Intern role. like we Nigerians say though, "we meuve". by God's grace, i hope to get one soon.
 
-## Introduction
+soooo, to get to the business of the day. I created a CHAT APPPPPPPPPPPPP!! mY God! like a bloody whatsapp, facebook messenger chat app and you can send and download files. wow. i love it.
 
-This is a code repository for the corresponding video tutorial. In this video, we create a full Realtime Chat Application with Social Auth and dedicated chat APIs/sockets.
+it's a Unichat template and I used the ReactJs Chat Engine library. 
+I also used Firebase for the authentication. I enabled the Google and Facebook authentication since most people will have at least either of them.
 
-You will learn how to build a react chat app using [https://chatengine.io](https://chatengine.io)
+I learned about Routing, Authentication. I also used useContext and useRef for the first time as part of the React Hooks. 
 
-Firebase and Chat Engine are greats tools to setup apps fast and easily - great to learn with!
-
-### Bonus - E-mail notifications
-
-If you want to upgrade this chat application even further than what is shown in the video, you can add e-mail notifications. More info on https://chatengine.io/docs/email_notifications.
+I really enjoyed this project.
