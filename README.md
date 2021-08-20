@@ -7,6 +7,6 @@ soooo, to get to the business of the day. I created a CHAT APPPPPPPPPPPPP!! mY G
 it's a Unichat template and I used the ReactJs Chat Engine library. 
 I also used Firebase for the authentication. I enabled the Google and Facebook authentication since most people will have at least either of them.
 
-I learned about Routing, Authentication. I also used useContext and useRef for the first time as part of the React Hooks. 
+I learned about Routing, Social Authentication using Google and Facebook Firebase login. I also used useContext & useHistory and worked with .env
 
 I really enjoyed this project.
